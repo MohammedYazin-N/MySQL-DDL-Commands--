@@ -15,7 +15,7 @@ Database Creation: Set up a database for  a school
 
 3. Schema Modification: Demonstrate the use of ALTER statements to modify existing table structures.
 
-4. Table Deletion: Safely drop tables and clean up schemas when no longer needed.
+4. Table Deletion: Safely drop tables and clean up schemas when no longer needed. 
 
 # Key DDL Commands Used
 
@@ -26,6 +26,8 @@ Database Creation: Set up a database for  a school
 3. DROP: Delete tables or databases.
 
 4. TRUNCATE: Remove all records from a table without affecting its structure.
+
+5. RENAME : Renames thr current selected Table
 
 # Project Structure
 
