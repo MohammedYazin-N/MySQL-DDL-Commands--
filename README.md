@@ -27,7 +27,7 @@ Database Creation: Set up a database for  a school
 
 4. TRUNCATE: Remove all records from a table without affecting its structure.
 
-5. RENAME : Renames thr current selected Table
+5. RENAME : Renames the  current selected Table
 
 # Project Structure
 
